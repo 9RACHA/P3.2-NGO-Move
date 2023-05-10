@@ -18,6 +18,10 @@ Es importante recalcar que todo lo relacionado con Inputs en este caso las flech
 Posicion de inicio
 ![image](https://github.com/9RACHA/P3.2-NGO-Move/assets/66274956/c31177fb-3cfa-42b8-9891-9ecedb364ccd)
 
+Me muevo a la izquierda
+![image](https://github.com/9RACHA/P3.2-NGO-Move/assets/66274956/3a485aa1-0987-4dd8-b031-35b4268c2aa5)
+
+
 
 
 
