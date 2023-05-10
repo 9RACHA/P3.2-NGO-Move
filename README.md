@@ -12,7 +12,8 @@ Link ao repositorio do xogo
 
 ## Informe
 Almacene la Variable de red NetworkVariable llamada Position cuyo objetivo es el de guardar la posicion del jugador.
-Esta Position es fundamental para generar una posicion aleatoria mediante un [ServerRpc] o posteriormente un [ClientRpc] que generara al principio una posicion aleatoria y despues podremos generar nosotros otra posicion pulsando las flechas de direccion. Es importante recalcar que todo lo relacionado con Inputs en este caso las flechas tendran que ir integradas dentro del metodo Update ya que se va actualizando constantemente.
+Esta Position es fundamental para generar una posicion aleatoria mediante un [ServerRpc] o posteriormente un [ClientRpc] que generará al principio una posicion aleatoria y después podremos generar nosotros otra posicion pulsando las flechas de dirección.
+Es importante recalcar que todo lo relacionado con Inputs en este caso las flechas tendran que ir integradas dentro del metodo Update ya que se va actualizando constantemente.
 
 
 
