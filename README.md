@@ -26,7 +26,7 @@ Me muevo a la izquierda
 El player solo se movera una vez por tecla pulsada ya que utilizo la funcion GetKeyDown 
 ![KeyDown](https://github.com/9RACHA/P3.2-NGO-Move/assets/66274956/9e7b51e9-c49d-4988-9a56-3d3d3ccbf83b)
 
-El resto del codigo esta en el Script PlayerMovement
+El resto del codigo esta en el Script PlayerMovement.
 
 
 
