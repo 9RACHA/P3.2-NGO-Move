@@ -15,5 +15,9 @@ Almacene la Variable de red NetworkVariable llamada Position cuyo objetivo es el
 Esta Position es fundamental para generar una posicion aleatoria mediante un [ServerRpc] o posteriormente un [ClientRpc] que generará al principio una posicion aleatoria y después podremos generar nosotros otra posicion pulsando las flechas de dirección.
 Es importante recalcar que todo lo relacionado con Inputs en este caso las flechas tendran que ir integradas dentro del metodo Update ya que se va actualizando constantemente.
 
+Posicion de inicio
+![image](https://github.com/9RACHA/P3.2-NGO-Move/assets/66274956/c31177fb-3cfa-42b8-9891-9ecedb364ccd)
+
+
 
 
