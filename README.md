@@ -23,6 +23,10 @@ Posicion de inicio
 Me muevo a la izquierda
 ![image](https://github.com/9RACHA/P3.2-NGO-Move/assets/66274956/3a485aa1-0987-4dd8-b031-35b4268c2aa5)
 
+El player solo se movera una vez ya que utilizo la funcion GetKeyDown 
+![KeyDown](https://github.com/9RACHA/P3.2-NGO-Move/assets/66274956/9e7b51e9-c49d-4988-9a56-3d3d3ccbf83b)
+
+
 
 
 
