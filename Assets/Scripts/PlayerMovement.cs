@@ -70,8 +70,9 @@ namespace PlayerMove
                     direction = Vector3.back;
                 else if (Input.GetKeyDown(KeyCode.UpArrow))
                     direction = Vector3.forward;
+                
 
-                // Si se ha presionado alguna tecla de flecha, solicita el cambio de posición al servidor
+                // Si se presiona alguna tecla de flecha, solicita el cambio de posición al servidor
                 if (direction != Vector3.zero)
                     RequestPositionChangeServerRpc(direction);
             }
